@@ -1,0 +1,8 @@
+name = "FinancialCalculator"
+uuid = "593aebc0-a066-11e9-33bf-dda777e7446b"
+authors = ["Xiong "]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
