@@ -8,5 +8,9 @@ function get_PV(FV::Real, r::Real, N_Years::Real; compounding::Symbol = :Yearly)
 
 end
 
+function say_hello()
+    println("hello!")
+end
+
 
 end # module
